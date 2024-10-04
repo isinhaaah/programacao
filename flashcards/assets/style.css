@@ -1,8 +1,9 @@
 body {
     background-color: bisque;
 }
+
 footer {
-    background-color: black
+    background-color: black;
     color: mediumpurple;
     position:fixed;
     bottom: 0;
