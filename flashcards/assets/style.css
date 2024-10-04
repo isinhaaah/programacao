@@ -1,10 +1,10 @@
 body {
-    background-color: bisque;
+    background-color: black;
 }
 
 footer {
-    background-color: black;
-    color: mediumpurple;
+    background-color: mediumpurple;
+    color: black;
     position:fixed;
     bottom: 0;
     width: 100%;
