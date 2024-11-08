@@ -4,7 +4,7 @@ body {
     }
 
 footer {
-    background-color: black;
+    background-color:mediumslateblue;
     color: mediumpurple;
     position:fixed;
     bottom: 0;
@@ -20,7 +20,7 @@ footer p {
 
 .cartao {
     margin: 1rem 1rem;
-    background-color: lightsteelblue;
+    background-color: rgb(73, 142, 233);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
@@ -33,7 +33,7 @@ footer p {
 }
 
 .cartao__conteudo h3 { 
-    background-color: lightsteelblue;
+    background-color: rgb(73, 142, 233);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
